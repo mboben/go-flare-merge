@@ -1,0 +1,6 @@
+[submodule "avalanchego"]
+	path = avalanchego
+	url = git@github.com:mboben/avalanchego.git
+[submodule "coreth"]
+	path = coreth
+	url = git@github.com:mboben/coreth.git
