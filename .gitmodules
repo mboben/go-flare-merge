@@ -1,8 +1,8 @@
 [submodule "avalanchego"]
 	path = avalanchego
 	url = https://github.com/mboben/avalanchego.git
-	branch = flare-merge
+	branch = flare-merge-1_8_6
 [submodule "coreth"]
 	path = coreth
 	url = https://github.com/mboben/coreth.git
-	branch = flare-merge
+	branch = flare-merge-0_10_0_rc1
